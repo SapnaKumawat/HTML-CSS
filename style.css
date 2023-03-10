@@ -1,0 +1,12 @@
+#secondDiv{
+  background-color: yellow;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+  background: url('/Blob\ Group.svg');
+  background-repeat: no-repeat;
+  /* background-size: cover; */
+  background-color: aqua;
+  font-family: 'Climate Crisis', cursive;
+}

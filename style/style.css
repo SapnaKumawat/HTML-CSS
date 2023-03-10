@@ -1,0 +1,30 @@
+/* Business News */
+
+*{
+    margin: 0 auto;
+    padding: 0px;
+}
+
+section{
+    display: block;
+    padding-top: 20px;
+}
+
+.news_box{
+    width: 700px;
+    height: auto;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div2{
+padding: 10px; 
+margin-top: 10px;
+}
+
+.btn{
+    background-color: rgb(17, 17, 245);
+    padding-inline: 10px;
+}
